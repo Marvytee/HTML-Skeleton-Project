@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+ol {
+    list-style-type: lower-latin;
+}
+.ordered {
+    list-style-type: lower-alpha;
+}
+#ordered {
+    list-style-type: upper-alpha;
+}
+.unordered {
+    list-style-type: none;
+}
+#unordered {
+    list-style-type: square;
+}
+h2 {
+    color: rgb(121, 115, 115);
+}
+li {
+    margin: 30px 0;
+}
+.ol-list {
+    color: blueviolet;
+    
+}
+.ul-list {
+    color: coral;
+}

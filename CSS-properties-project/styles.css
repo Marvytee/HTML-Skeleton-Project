@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+h1 {
+    font-size: 18px;
+}
+section {
+    width: 60%;
+    margin: 25px auto;
+}
+.paragraph {
+    font-size: 14px;
+    padding: 20px;
+}
+.first-paragraph {
+    border: 2px green solid;
+    color: green;
+}
+.second-paragraph{
+    border: 2px red dotted;
+    color: red;
+}
+.third-paragraph {
+    color: blue;
+    border: 2px blue dashed;
+}

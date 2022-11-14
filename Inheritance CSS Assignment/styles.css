@@ -1,9 +1,10 @@
 body {
     background-color: white;
     width: 80%;
-    margin: 0 auto;
+    margin: 20px auto;
     display: flex;
     justify-content: space-between;
+    border: 3px dashed indigo;
 }
 ol {
     list-style-type: lower-latin;
